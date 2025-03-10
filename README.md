@@ -19,7 +19,7 @@ code link: <a href="https://github.com/anttijoutsenniemi/homedesigner_public">ht
 <br>
 deployment link: <a href="https://tavaratrading-embeddings-alyakokeilut.2.rahtiapp.fi/">https://tavaratrading-embeddings-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
-code link: <a href="https://github.com/laguagu/kalustehaku">https://github.com/laguagu/kalustehaku<a>
+code link: <a href="https://github.com/Alya-projects/kalustehaku">https://github.com/Alya-projects/kalustehaku<a>
 <br><br>
 **Mainosmestari**
 <br>
@@ -37,19 +37,31 @@ code link: <a href="https://github.com/anttijoutsenniemi/matskumesta">https://gi
 <br>
 deployment link: <a href="https://nikari-alyakokeilut.2.rahtiapp.fi/">https://nikari-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
-code link: <a href="https://github.com/laguagu/nikari">https://github.com/laguagu/nikari<a>
+code link: <a href="https://github.com/Alya-projects/nikari">https://github.com/laguagu/Alya-projects/nikari<a>
 <br><br>
 **Woodnotes care instructor**
 <br>
 deployment link: <a href="https://woodnotes-alyakokeilut.2.rahtiapp.fi/">https://woodnotes-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
-code link: <a href="https://github.com/laguagu/nikari">https://github.com/laguagu/nikari<a>
+code link: <a href="https://github.com/Alya-projects/care-instructor">https://github.com/Alya-projects/care-instructor<a>
 <br><br>
 **Redecofinder**
 <br>
 deployment link: <a href="https://redecofinder-alyakokeilut.2.rahtiapp.fi">https://redecofinder-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
 code link: <a href="https://github.com/anttijoutsenniemi/redecofinder">https://github.com/anttijoutsenniemi/redecofinder/<a>
+<br><br>
+**Älyäavustaja**
+<br>
+deployment link: <a href="http://github.com/Alya-projects/alya-avustaja>https://hki-piiroinen-alyakokeilut.2.rahtiapp.fi/"><a>
+<br>
+code link: <a href="http://github.com/Alya-projects/alya-avustaja"><a>
+<br><br>
+**AntiikkiAvustaja**
+<br>
+deployment link: <a href="https://riviera-vintage-alyakokeilut.2.rahtiapp.fi/"><a>
+<br>
+code link: <a href="https://github.com/Alya-projects/antiikki-avustaja/">https://github.com/Alya-projects/antiikki-avustaja/<a>
 <br><br>
 **NEXT TITLE HERE**
 <br>
