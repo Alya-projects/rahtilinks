@@ -59,7 +59,7 @@ code link: <a href="http://github.com/Alya-projects/alya-avustaja">http://github
 <br><br>
 **AntiikkiAvustaja**
 <br>
-deployment link: <a href="https://riviera-vintage-alyakokeilut.2.rahtiapp.fi/"><a>
+deployment link: <a href="https://riviera-vintage-alyakokeilut.2.rahtiapp.fi/">https://riviera-vintage-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
 code link: <a href="https://github.com/Alya-projects/antiikki-avustaja/">https://github.com/Alya-projects/antiikki-avustaja/<a>
 <br><br>
