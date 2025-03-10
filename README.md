@@ -37,7 +37,7 @@ code link: <a href="https://github.com/anttijoutsenniemi/matskumesta">https://gi
 <br>
 deployment link: <a href="https://nikari-alyakokeilut.2.rahtiapp.fi/">https://nikari-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
-code link: <a href="https://github.com/Alya-projects/nikari">https://github.com/laguagu/Alya-projects/nikari<a>
+code link: <a href="https://github.com/Alya-projects/nikari">https://github.com/Alya-projects/nikari<a>
 <br><br>
 **Woodnotes care instructor**
 <br>
