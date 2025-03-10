@@ -1,7 +1,13 @@
 # rahtilinks
 All publicly available Älyä -applications
 
-**Furnitize**
+**Arvolaskuri / Kalustearvio**
+<br>
+deployment link: <a href="https://arvolaskuri-alyakokeilut.2.rahtiapp.fi/">https://arvolaskuri-alyakokeilut.2.rahtiapp.fi/<a>
+<br>
+code link: <a href="https://github.com/orgs/team-alya/repositories">https://github.com/orgs/team-alya/repositories<a>
+<br><br>
+**Furnitize / Homedesigner**
 <br>
 deployment link: <a href="https://furnitize-alyakokeilut.2.rahtiapp.fi/">https://furnitize-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
