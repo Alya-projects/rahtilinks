@@ -15,11 +15,23 @@ deployment link: <a href="https://tavaratrading-embeddings-alyakokeilut.2.rahtia
 <br>
 code link: <a href="https://github.com/laguagu/kalustehaku">https://github.com/laguagu/kalustehaku<a>
 <br><br>
+**Mainosmestari**
+<br>
+deployment link: <a href="https://mainos-mestari-opiskelijat-alyakokeilut.2.rahtiapp.fi/">https://mainos-mestari-opiskelijat-alyakokeilut.2.rahtiapp.fi/<a>
+<br>
+code link: <a href="https://github.com/orgs/Syaani-OhjelmistoProjekti2/repositories">https://github.com/orgs/Syaani-OhjelmistoProjekti2/repositories<a>
+<br><br>
 **Matskumesta**
 <br>
 deployment link: <a href="https://matskumesta-alyakokeilut.2.rahtiapp.fi/">https://matskumesta-alyakokeilut.2.rahtiapp.fi/<a>
 <br>
 code link: <a href="https://github.com/anttijoutsenniemi/matskumesta">https://github.com/anttijoutsenniemi/matskumesta<a>
+<br><br>
+**Nikari care instructor**
+<br>
+deployment link: <a href="https://nikari-alyakokeilut.2.rahtiapp.fi/">https://nikari-alyakokeilut.2.rahtiapp.fi/<a>
+<br>
+code link: <a href="https://github.com/laguagu/nikari">https://github.com/laguagu/nikari<a>
 <br><br>
 **Redecofinder**
 <br>
