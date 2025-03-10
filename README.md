@@ -55,7 +55,7 @@ code link: <a href="https://github.com/anttijoutsenniemi/redecofinder">https://g
 <br>
 deployment link: <a href="https://hki-piiroinen-alyakokeilut.2.rahtiapp.fi/">https://hki-piiroinen-alyakokeilut.2.rahtiapp.fi//<a>
 <br>
-code link: <a href="http://github.com/Alya-projects/alya-avustaja"><a>
+code link: <a href="http://github.com/Alya-projects/alya-avustaja">http://github.com/Alya-projects/alya-avustaja<a>
 <br><br>
 **AntiikkiAvustaja**
 <br>
